@@ -1,0 +1,9 @@
+privado/
+*.ovpn
+*.php
+*.phtml
+*cookies*
+*session*
+*user.txt
+*root.txt
+.env
